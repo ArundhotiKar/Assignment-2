@@ -60,7 +60,7 @@
 .flower-list {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 20px;
+    gap: 60px;
     padding: 20px;
 
 }
@@ -86,11 +86,12 @@
 
 .plant-lover-section {
     height: auto;
-    width: 850px;
+    
     margin: 100px 80px 0 80px;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 20px;
+    padding-top: 50px;
 
 }
 .img-sz {
