@@ -142,7 +142,7 @@
   }
 
   .bloom-plant{
-    background-image: url(../assets/deal-bloom.png);
+    background-image: url('assets/deal-bloom.png');
      background-repeat: no-repeat;
     border-radius: 14px;
     width: 22.2rem;
@@ -155,7 +155,7 @@
     text-decoration: none;
   }
   .ana-plant{
-    background-image: url(../assets/deal-ana.png);
+    background-image: url('assets/deal-ana.png');
     background-repeat: no-repeat;
      border-radius: 14px;
     width: 22.2rem;
@@ -169,7 +169,7 @@
   }
   
   .zabo-plant{
-    background-image: url(../assets/deal-zabo.png);
+    background-image: url('assets/deal-zabo.png');
      background-repeat: no-repeat;
      border-radius: 14px;
     width:  45rem;
